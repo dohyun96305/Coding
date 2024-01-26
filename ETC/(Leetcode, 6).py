@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/zigzag-conversion/description/
+# ZigZag_Conversion 
 # numRows 값에 따라 문자열 S를 지그재그로 변환 및 반환
 
 class Solution(object):

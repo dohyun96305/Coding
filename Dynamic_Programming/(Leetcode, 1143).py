@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/longest-common-subsequence/
+# Longest_Common_Subsequence
 # text1 내 text2의 연속적인 가장 긴 문자열의 길이 반환 
 
 class Solution(object):
