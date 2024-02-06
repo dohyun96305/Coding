@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/two-sum/description/
-# Two sum 
+# ZigZag_Conversion 
 # List 내 2개 원소의 합이 Target 값이라면 Index 값 반환
 
 class Solution(object):
